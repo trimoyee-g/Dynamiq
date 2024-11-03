@@ -1,0 +1,2 @@
+- An application for analyzing the vibrational characteristics of advanced composite materials, calculating natural and dimensionless frequencies, as well as mode shapes based on user-defined parameters.
+- Provides users with an interface to explore frequency variations with respect to CNT weight fractions, volume fractions, thickness, aspect ratio, and layering.
